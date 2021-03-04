@@ -1,8 +1,9 @@
 # Welcome to Petful!
 
-## Live Link: https://petful-client-template-theta.vercel.app/
+## Live Link: https://adoptafriend.vercel.app/
 
-Client Repo: https://github.com/nlomba1Thinkful/petful-client
+Client Repo: https://github.com/Brommstein/Petful_Client
+
 Front-End: `ReactJS, JSX`
 
 Sever-Side: `NodeJS, ExpressJS`
